@@ -21,7 +21,7 @@ I am a React developer with 5 years of experience in building dynamic and respon
 ## 🏢 Professional Experience
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Endesa_logo.svg" alt="Endesa" height="50px"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/Endesa_logo.svg](https://erriberrisl.com/wp-content/uploads/2022/02/enel-endesa.png)" alt="Endesa" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sopra_Steria_logo.svg" alt="Sopra Steria" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Capgemini_logo.svg" alt="Capgemini" height="50px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gedesco_logo.svg" alt="Gedesco" height="50px"/>

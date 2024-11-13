@@ -21,10 +21,10 @@ I am a React developer with 5 years of experience in building dynamic and respon
 ## 🏢 Professional Experience
 
 <p align="left">
-  <img src="https://erriberrisl.com/wp-content/uploads/2022/02/enel-endesa.png" alt="Endesa" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sopra_Steria_logo.svg" alt="Sopra Steria" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Capgemini_logo.svg" alt="Capgemini" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gedesco_logo.svg" alt="Gedesco" height="50px"/>
+  <img src="https://graffica.info/wp-content/uploads/2016/01/comparativa-logos-enel.jpg" alt="Endesa" height="50px"/>
+  <img src="https://img.europapress.es/fotoweb/fotonoticia_20240925144257_470x276_0_0_0_0_bg000.jpg" alt="Sopra Steria" height="50px"/>
+  <img src="https://brandemia.org/contenido/subidas/2020/11/portada-capgemini-imagenes-brandemia-blog-1000x670.jpg" alt="Capgemini" height="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfWuzfEJxkXYJ1AnPK04S4Z0Fq3_BkPYfBSg&s" alt="Gedesco" height="50px"/>
 </p>
 
 ---

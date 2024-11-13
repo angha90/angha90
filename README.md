@@ -1,7 +1,5 @@
 # Anas Gharbi 👋
 
-## Frontend Developer
-
 <p align="center">
   <img src="https://cdn.mos.cms.futurecdn.net/GaAJCwmwsGF7QAKirfUyG5.jpg" alt="Frontend Development" width="600px"/>
 </p>

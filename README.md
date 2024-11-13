@@ -19,6 +19,7 @@
 ## 🏢 Professional Experience
 
 <p align="left">
+    <img src="https://www.grupocobra.com/wp-content/uploads/logo_grupocobra.png" alt="Cobra" height="50px"/>
   <img src="https://graffica.info/wp-content/uploads/2016/01/comparativa-logos-enel.jpg" alt="Endesa" height="50px"/>
   <img src="https://img.europapress.es/fotoweb/fotonoticia_20240925144257_470x276_0_0_0_0_bg000.jpg" alt="Sopra Steria" height="50px"/>
   <img src="https://brandemia.org/contenido/subidas/2020/11/portada-capgemini-imagenes-brandemia-blog-1000x670.jpg" alt="Capgemini" height="50px"/>

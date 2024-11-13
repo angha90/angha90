@@ -1,5 +1,6 @@
 # Anas Gharbi 👋
 
+Frontend developer
 ---
 
 ## 🚀 Skills & Technologies

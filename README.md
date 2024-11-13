@@ -1,4 +1,4 @@
-# Hi, I'm Anas Gharbi! 👋
+# Hi, I'm [Your Name]! 👋
 
 I am a React developer with 5 years of experience in building dynamic and responsive web applications. I focus on delivering clean, efficient code and creating seamless user experiences.
 
@@ -18,13 +18,13 @@ I am a React developer with 5 years of experience in building dynamic and respon
 
 ---
 
-## 🏢 Companies I've Worked For
+## 🏢 Professional Experience
 
 <p align="left">
-  <img src="https://path-to-endesa-logo.png" alt="Endesa" height="50px"/>
-  <img src="https://path-to-sopra-logo.png" alt="Sopra" height="50px"/>
-  <img src="https://path-to-capgemini-logo.png" alt="Capgemini" height="50px"/>
-  <img src="https://path-to-gedesco-logo.png" alt="Gedesco" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Endesa_logo.svg" alt="Endesa" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sopra_Steria_logo.svg" alt="Sopra Steria" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Capgemini_logo.svg" alt="Capgemini" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gedesco_logo.svg" alt="Gedesco" height="50px"/>
 </p>
 
 ---
@@ -32,37 +32,23 @@ I am a React developer with 5 years of experience in building dynamic and respon
 ## 🤝 Main Clients
 
 <p align="left">
-  <img src="https://path-to-sncf-logo.png" alt="SNCF" height="50px"/>
-  <img src="https://path-to-molotov-logo.png" alt="Molotov" height="50px"/>
-  <img src="https://path-to-daimler-logo.png" alt="Daimler" height="50px"/>
-  <img src="https://path-to-nuuday-logo.png" alt="Nuuday" height="50px"/>
-  <img src="https://path-to-gedesco-logo.png" alt="Gedesco" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/SNCF_logo.svg" alt="SNCF" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Molotov_TV_logo.svg" alt="Molotov" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Daimler_AG_logo.svg" alt="Daimler" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nuuday_logo.svg" alt="Nuuday" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gedesco_logo.svg" alt="Gedesco" height="50px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CAF_France_logo.svg" alt="CNAF" height="50px"/>
 </p>
-
----
-
-## 🛠️ Projects
-
-### [📊 Advanced Dashboard](https://github.com/username/project1)
-A feature-rich admin dashboard with reusable components and data visualization.
-
-![Dashboard Screenshot](https://path-to-your-image.png)
-
-### [🛒 E-commerce Platform](https://github.com/username/project2)
-A scalable e-commerce app with product browsing, filtering, and a smooth checkout flow.
-
-![E-commerce Screenshot](https://path-to-your-image.png)
 
 ---
 
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/gharbi-anas-684b40b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
 
 Thanks for visiting my profile! Looking forward to collaborating and learning together.
+

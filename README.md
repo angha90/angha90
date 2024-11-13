@@ -3,7 +3,7 @@
 ## Frontend Developer
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg" alt="Frontend Development" width="600px"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/GaAJCwmwsGF7QAKirfUyG5.jpg" alt="Frontend Development" width="600px"/>
 </p>
 
 ## 🚀 Skills & Technologies

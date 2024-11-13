@@ -1,6 +1,4 @@
-# Hi, I'm [Your Name]! 👋
-
-I am a React developer with 5 years of experience in building dynamic and responsive web applications. I focus on delivering clean, efficient code and creating seamless user experiences.
+# Anas Gharbi 👋
 
 ---
 
@@ -32,12 +30,12 @@ I am a React developer with 5 years of experience in building dynamic and respon
 ## 🤝 Main Clients
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/SNCF_logo.svg" alt="SNCF" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Molotov_TV_logo.svg" alt="Molotov" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Daimler_AG_logo.svg" alt="Daimler" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Nuuday_logo.svg" alt="Nuuday" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Gedesco_logo.svg" alt="Gedesco" height="50px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CAF_France_logo.svg" alt="CNAF" height="50px"/>
+    <img src="https://www.enfancemusique.asso.fr/wp-content/uploads/2019/04/logo-cnaf.jpg" alt="CNAF" height="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5938zUs4GJY1DaqU_JRyLmEAZPeaHvG2TQ&s" alt="SNCF" height="50px"/>
+  <img src="https://images.molotov.tv/data/landing/_1640254291_CPM6-ImageHeader.jpg" alt="Molotov" height="50px"/>
+  <img src="https://www.allaboutlean.com/wp-content/uploads/2025/02/Daimler-and-Mercedes-Logo.jpg" alt="Daimler" height="50px"/>
+  <img src="https://ik.imagekit.io/tp/20220329-nuuday-logo.png?tr=w-333,h-190" alt="Nuuday" height="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfWuzfEJxkXYJ1AnPK04S4Z0Fq3_BkPYfBSg&s" alt="Gedesco" height="50px"/>
 </p>
 
 ---

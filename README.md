@@ -19,7 +19,7 @@
   <img src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg" alt="Next.js" height="30px" width="100px"/>
   <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux" height="30px" width="100px"/>
   <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="30px" width="100px"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" alt="Sass" height="30px" width="100px"/>
+  <img src="https://blog.openreplay.com/images/why-should-you-use-material-ui/images/hero.png" alt="Sass" height="30px" width="100px"/>
 </p>
 
 ---

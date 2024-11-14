@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="30px" width="100px"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz0r7QzBeegJPgYtbfeYwwBoGjFHMFo1PZQ&s" alt="TypeScript" height="30px" width="100px"/>
   <img src="https://files.gotocon.com/uploads/images/conference_62/sponsors/802/original/chromatic%20logo%20space.png" alt="JavaScript" height="30px" width="100px"/>
-  <img src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg" alt="Next.js" height="30px" width="100px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png" alt="Next.js" height="30px" width="100px"/>
   <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux" height="30px" width="100px"/>
   <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="30px" width="100px"/>
   <img src="https://blog.openreplay.com/assets/hero_Z2mR7Bb.png" alt="Sass" height="30px" width="100px"/>

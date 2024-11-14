@@ -7,19 +7,19 @@
 ## 🚀 Skills & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz0r7QzBeegJPgYtbfeYwwBoGjFHMFo1PZQ&s" alt="TypeScript"/>
-  <img src="https://files.gotocon.com/uploads/images/conference_62/sponsors/802/original/chromatic%20logo%20space.png" alt="JavaScript"/>
-  <img src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg" alt="Next.js"/>
-  <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux"/>
-  <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" alt="Sass"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="50px"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="50px"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50px"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" height="50px"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="50px"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="50px"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"height="50px"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz0r7QzBeegJPgYtbfeYwwBoGjFHMFo1PZQ&s" alt="TypeScript"height="50px"/>
+  <img src="https://files.gotocon.com/uploads/images/conference_62/sponsors/802/original/chromatic%20logo%20space.png" alt="JavaScript" height="50px"/>
+  <img src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg" alt="Next.js" height="50px"/>
+  <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux" height="50px"/>
+  <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="50px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" alt="Sass" height="50px"/>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🏢 Professional Experience
 
 <p align="left">
-    <img src="https://www.grupocobra.com/wp-content/uploads/logo_grupocobra.png" alt="Cobra" height="50px"/>
+  <img src="https://www.grupocobra.com/wp-content/uploads/logo_grupocobra.png" alt="Cobra" height="50px"/>
   <img src="https://graffica.info/wp-content/uploads/2016/01/comparativa-logos-enel.jpg" alt="Endesa" height="50px"/>
   <img src="https://img.europapress.es/fotoweb/fotonoticia_20240925144257_470x276_0_0_0_0_bg000.jpg" alt="Sopra Steria" height="50px"/>
   <img src="https://brandemia.org/contenido/subidas/2020/11/portada-capgemini-imagenes-brandemia-blog-1000x670.jpg" alt="Capgemini" height="50px"/>

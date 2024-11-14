@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmz0r7QzBeegJPgYtbfeYwwBoGjFHMFo1PZQ&s" alt="TypeScript"/>
+  <img src="https://files.gotocon.com/uploads/images/conference_62/sponsors/802/original/chromatic%20logo%20space.png" alt="JavaScript"/>
+  <img src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg" alt="Next.js"/>
+  <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux"/>
+  <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*fEyeESs-HxVR7Zlr-fdlvw.png" alt="Sass"/>
 </p>
 
 ---

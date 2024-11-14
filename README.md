@@ -1,4 +1,4 @@
-# Anas Gharbi 👋
+# Anas Gharbi
 
 <p align="center">
   <img src="https://cdn.mos.cms.futurecdn.net/GaAJCwmwsGF7QAKirfUyG5.jpg" alt="Frontend Development" width="600px"/>
@@ -19,7 +19,7 @@
   <img src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg" alt="Next.js" height="30px" width="100px"/>
   <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux" height="30px" width="100px"/>
   <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="30px" width="100px"/>
-  <img src="https://pro.guslyon.fr/static/material-ui-4a66e3fd52c7ec9469f4684b68aca251.png" alt="Sass" height="30px" width="100px"/>
+  <img src="https://blog.openreplay.com/assets/hero_Z2mR7Bb.png" alt="Sass" height="30px" width="100px"/>
 </p>
 
 ---

@@ -18,7 +18,7 @@
   <img src="https://files.gotocon.com/uploads/images/conference_62/sponsors/802/original/chromatic%20logo%20space.png" alt="JavaScript" height="30px" width="100px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tailwind_CSS_logo.svg/2560px-Tailwind_CSS_logo.svg.png" alt="Next.js" height="30px" width="100px"/>
   <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux" height="30px" width="100px"/>
-  <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="30px" width="300px"/>
+  <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="30px" width="100px"/>
   <img src="https://blog.openreplay.com/assets/hero_Z2mR7Bb.png" alt="Sass" height="30px" width="100px"/>
   <img src="https://github.com/user-attachments/assets/43274e38-ed6a-434a-9b4c-e140e9ba9ab0" alt="Redux" height="30px" width="100px"/>
   <img src="https://statics.cdn.200lab.io/2024/09/jest-typescript.png" alt="CSS3" height="30px" width="100px"/>

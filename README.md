@@ -20,7 +20,7 @@
   <img src="https://e7.pngegg.com/pngimages/394/264/png-clipart-bootstrap-logo-landscape-tech-companies.png" alt="Redux" height="50px" width="100px"/>
   <img src="https://www.primefaces.org/primereact-v5/showcase/images/primereact-logo-dark.png" alt="CSS3" height="50px" width="100px"/>
   <img src="https://blog.openreplay.com/assets/hero_Z2mR7Bb.png" alt="Sass" height="50px" width="100px"/>
-  <img src="https://geops.com/images/blog/migrating-from-enzyme-to-testing-library-react/testing-library.png" alt="Redux" height="50px" width="100px"/>
+  <img src="https://github.com/user-attachments/assets/43274e38-ed6a-434a-9b4c-e140e9ba9ab0" alt="Redux" height="50px" width="100px"/>
   <img src="https://statics.cdn.200lab.io/2024/09/jest-typescript.png" alt="CSS3" height="50px" width="100px"/>
   <img src="https://pbs.twimg.com/media/EtZYf1FWYAMmtHj.jpg:large" alt="Sass" height="50px" width="100px"/>
 

@@ -24,7 +24,7 @@
   <img src="https://github.com/user-attachments/assets/43274e38-ed6a-434a-9b4c-e140e9ba9ab0" alt="Redux" height="50px" width="150px"/>
   <img src="https://statics.cdn.200lab.io/2024/09/jest-typescript.png" alt="CSS3" height="50px" width="150px"/>
   <img src="https://pbs.twimg.com/media/EtZYf1FWYAMmtHj.jpg:large" alt="Sass" height="50px" width="150px"/>
-  <img src="https://pngimg.com/d/github_PNG65.png" alt="Redux" height="50px" width="150px"/>
+  <img src="https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png/revision/latest/thumbnail/width/360/height/360?cb=20231201024220" alt="Redux" height="50px" width="150px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GitLab_logo_%282%29.svg/1280px-GitLab_logo_%282%29.svg.png" alt="CSS3" height="50px" width="150px"/>
   <img src="https://www.testmanagement.com/wp-content/uploads/2021/07/microsoft-azure-devops-logo.jpeg" alt="Sass" height="50px" width="150px"/>
 
